@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tomoveu.github.io/crest/sitemap.xml
